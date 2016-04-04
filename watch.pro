@@ -1,4 +1,4 @@
-update=04.04.2016 8:41:16
+update=04.04.2016 12:23:45
 version=1
 last_client=kicad
 [cvpcb]
@@ -68,4 +68,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=D:/nexus/kicad-libs/Misc
+LibName30=../kicad-libs/Misc
