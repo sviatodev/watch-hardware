@@ -2108,7 +2108,7 @@
       (net 20 /BTN0))
     (pad 2 smd rect (at 1.8 0 90) (size 1 1.7) (layers F.Cu F.Paste F.Mask)
       (net 2 GND))
-    (model ${KIPRJMOD}/../3d/b3u-3000p.wrl
+    (model ${KIPRJMOD}/../kicad-libs/3d/b3u-3000p.wrl
       (at (xyz 0 0 0))
       (scale (xyz 410 410 410))
       (rotate (xyz -90 0 0))
