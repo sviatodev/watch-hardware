@@ -1,4 +1,4 @@
-# OLED Bluetooth 4.0 Watch.
+# OLED Bluetooth 4.0 Watch
   - STM32L151 MCU with 128k Flash and 16k RAM
   - Bluetooth 4.0 HC-08 tranceiver
   - Piezoelectric buzzer
