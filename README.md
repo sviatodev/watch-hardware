@@ -1,4 +1,5 @@
 # watch
+![alt tag](https://raw.githubusercontent.com/fpgamcu/watch-hardware/master/watch_real.jpg)
 OLED Bluetooth 4.0 Watch.
 
   - STM32L151 MCU with 128k Flash and 16k RAM
