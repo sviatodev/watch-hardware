@@ -12,3 +12,4 @@
   - Socket for STM32F3Discovery ST-Link header (can be cut-off)
 
 ![alt tag](https://raw.githubusercontent.com/fpgamcu/watch-hardware/master/watch_real.jpg)
+
